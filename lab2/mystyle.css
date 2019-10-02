@@ -1,0 +1,73 @@
+body{
+
+    background-color: darkslategrey;
+}
+h1,h2,h3,h4{
+
+      color: lightskyblue;
+
+
+}
+p{
+    color: azure;
+
+}
+#courses{
+    color: azure;
+
+}
+ul li{
+
+    color: azure;
+
+}
+.pic>img{
+    height: 200px;
+    width: 200px;
+    color: azure;
+
+}
+.detail{
+    color:yellow;
+
+}
+.box{
+    color: white;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.neighbours{
+    color: white;
+}
+
+ol>li>dl{
+    display: none;
+}
+
+ol>li.hidden:hover > dl{
+     display :block;
+
+}
+.only{
+     color: yellow;
+
+}
+ p::first-letter {
+
+    font-size: 1.5em;
+}
+ a{
+   text-decoration: none;
+     font-size: 14px;
+     color: green;
+
+
+ }
+ a:hover{
+
+     color: red;
+ }
+ .who{
+     color :yellow;
+
+ }
