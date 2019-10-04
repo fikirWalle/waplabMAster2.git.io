@@ -1,0 +1,41 @@
+.left{
+
+ /* border: solid red 2px;*/
+width:400px;
+float:left;
+	height: 400px;
+
+
+}
+.right{
+
+ /** border: solid yellow 2px;*/
+width:100px;
+	float:left;
+		height: 400px;
+	
+
+
+}
+.third{
+
+ /* border: solid black 2px;*/
+    width:100px;
+	float:left;
+		height: 400px;
+	
+
+
+}
+.space{
+	
+	height: 50px;
+	
+}
+.bigspace{
+	
+	/*border: solid black 2px;*/
+    width:200px;
+	float:green;
+		height: 400px;
+}
