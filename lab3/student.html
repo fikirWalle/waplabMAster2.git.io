@@ -1,22 +1,49 @@
 <!DOCTYPE html>
-<html>
-<body>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="this is my page"/>
+        <title>hello fikir</title>
+        <link rel="stylesheet" href="mystyle.css">
+    </head>
+	<body>
 
-<h2>Student Registration</h2>
+<h2>Student Grading</h2>
 
-<form action="/ http://mumstudents.org/params.php" method="get">
+<form action="http://mumstudents.org/params.php" method="post">
   First name:<br>
-  <input type="text" name="firstname" value="">
+  <input type="text" name="firstname" value="" required>
   <br>
   Last name:<br>
-  <input type="text" name="lastname" value="">
+  <input type="text" name="lastname" value="" required>
   <br><br>
 	<br>
   ID<br>
-  <input type="text" name="Id" value="">
-  <br><br>
+  <input type="text" name="Id" value="" required>
+  <br/>
+	<select>
+		<option>ASigment List</option>
+		<option>WAP Assignment</option>
+		<option>MWA Assignment</option>
+		<option>WAA Assignment</option>
+		<option>EA Assignment</option>
+	
+	</select>
+	</br>
+	MAy      <input type="radio" name="entry" value="May"></br>
+	August	 <input type="radio" name="entry" value="August"></br>
+	November <input type="radio" name="entry" value="November"></br>
+   Feburary	 <input type="radio" name="entry" value="Feburary"></br>
+	you want submit you request ?<input type="checkbox" name="yes" value="join" required>
+	
+	
+
   <input type="submit" value="Submit">
 </form> 
+ <a href="https://validator.w3.org/check/referer">
+            <img src="http://mumstudents.org/cs472/2014-09/images/w3c-html.png" alt="html validator"/></a>
+    
+    
 
 
 
