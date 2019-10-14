@@ -12,7 +12,7 @@
   </welcome-file-list>
   <servlet>
     <servlet-name>BeerServlet</servlet-name>
-    <servlet-class>cs472.BeerServlet</servlet-class>
+    <servlet-class>cs472.test</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>BeerServlet</servlet-name>

@@ -2,24 +2,24 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Beer:war exploded" />
+      <artifact name="exampleservlate:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90e2d312-adbb-4f11-9996-bac89712dbce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/src/cs472/BeerExpert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/cs472/BeerExpert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/src/cs472/BeerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/cs472/BeerServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Beer/WEB-INF/classes/cs472/BeerExpert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Beer/WEB-INF/classes/cs472/BeerServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Beer/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/Beer/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Beer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Beer/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Beer/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Beer/result.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cs472/BeerExpert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cs472/BeerServlet.class" beforeDir="false" />
+    <list default="true" id="35fb09f9-1e53-4d2d-891d-6036719d1d45" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Beer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/src/main/src/cs472/BeerExpert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Beer/src/main/src/cs472/BeerExpert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/src/main/src/cs472/BeerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Beer/src/main/src/cs472/BeerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beer/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Beer/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/src/main/webapp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Beer/src/main/webapp/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/target/Beer/WEB-INF/classes/cs472/BeerExpert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/target/Beer/WEB-INF/classes/cs472/BeerServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/target/Beer/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Beer/target/Beer/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/target/Beer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Beer/target/Beer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/target/Beer/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Beer/target/Beer/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/target/classes/cs472/BeerExpert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Beer/target/classes/cs472/BeerServlet.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mulu-Wap/Midterm-WAP.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Mulu-Wap/Midterm-WAP.xlsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,36 +31,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="22" selection-start-line="30" selection-start-column="2" selection-end-line="53" selection-end-column="17" />
+            <state relative-caret-position="578">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/src/cs472/BeerServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/controller/indexcontroller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#0#941#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/src/cs472/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="425">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,20 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index2.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/result.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="340">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -89,17 +69,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="136">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/src/cs472/BeerExpert.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="102">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -109,8 +89,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="JavaFXApplication" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -121,27 +102,28 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/src/main/src/cs472/BeerServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/src/cs472/BeerExpert.java" />
-        <option value="$PROJECT_DIR$/src/main/src/cs472/test.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/result.jsp" />
+        <option value="$PROJECT_DIR$/src/main/controller/indexcontroller.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index2.jsp" />
       </list>
     </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="false" />
-    <option name="FILTER_DEBUG" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -155,18 +137,61 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exampleservlate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleservlate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleservlate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleservlate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleservlate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleservlate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleservlate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleservlate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleservlate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleservlate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleservlate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exampleservlate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exampleservlate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -176,14 +201,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\WAP_master2\labs\Beer\src\main\webapp" />
-      <recent name="F:\WAP_master2\labs\Beer\src\main\src" />
-    </key>
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1867647" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,19 +216,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.tom">
+    <configuration name="servlet-api-3.0-alpha-1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$MAVEN_REPOSITORY$/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar!/" />
+      <method v="2" />
+    </configuration>
     <configuration name="tom" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Beer_war_exploded/" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/exampleservlate_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Beer:war exploded">
+        <artifact name="exampleservlate:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/Beer_war_exploded" />
+            <option name="CONTEXT_PATH" value="/exampleservlate_war_exploded" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Beer" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_exampleservlate_3" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -217,7 +240,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="50602" />
+        <option name="DEBUG_PORT" value="50522" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -267,36 +290,51 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Beer:war exploded" />
+          <artifact name="exampleservlate:war exploded" />
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JAR Application.servlet-api-3.0-alpha-1.jar" />
+      <item itemvalue="Tomcat Server.tom" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.servlet-api-3.0-alpha-1.jar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="90e2d312-adbb-4f11-9996-bac89712dbce" name="Default Changelist" comment="" />
-      <created>1570638575070</created>
+      <changelist id="35fb09f9-1e53-4d2d-891d-6036719d1d45" name="Default Changelist" comment="" />
+      <created>1571019503327</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570638575070</updated>
-      <workItem from="1570638578342" duration="1917000" />
-      <workItem from="1570685169895" duration="136000" />
-      <workItem from="1570688524699" duration="1715000" />
-      <workItem from="1570813536814" duration="747000" />
-      <workItem from="1571016738812" duration="718000" />
+      <updated>1571019503327</updated>
+      <workItem from="1571019507252" duration="6070000" />
+      <workItem from="1571068854342" duration="797000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_exampleservlate - 2019.10.13 at 22h 11m 09s.xml">
+      <configuration name="All in exampleservlate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_exampleservlate - 2019.10.13 at 22h 11m 26s.xml">
+      <configuration name="All in exampleservlate" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5233000" />
+    <option name="totallyTimeSpent" value="6867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17473525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -315,7 +353,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -334,59 +372,41 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="22" selection-start-line="30" selection-start-column="2" selection-end-line="53" selection-end-column="17" />
+        <state relative-caret-position="578">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/src/cs472/BeerServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#941#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/src/cs472/test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/controller/indexcontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index2.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/result.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/src/cs472/BeerExpert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="20" selection-end-column="3" />
+        <state relative-caret-position="340">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -396,10 +416,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>exampleservlate:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.7422681" />
               </list>
             </option>
           </splitter-proportions>
@@ -407,10 +428,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>Detection</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.7422681" />
               </list>
             </option>
           </splitter-proportions>
@@ -421,7 +443,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.7422681" />
               </list>
             </option>
           </splitter-proportions>
@@ -433,7 +455,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.1867647" />
               </list>
             </option>
           </splitter-proportions>
@@ -441,11 +463,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Beer</last-edited>
+          <last-edited>exampleservlate</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.1867647" />
               </list>
             </option>
           </splitter-proportions>
@@ -453,10 +475,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: javax.servlet:servlet-api:3.0-alpha-1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.61119294" />
               </list>
             </option>
           </splitter-proportions>
