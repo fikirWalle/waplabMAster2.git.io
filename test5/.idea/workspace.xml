@@ -7,17 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a09f8466-5d97-47e7-a09b-93a9bfe1e5dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../test2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test3/test3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test4/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test4/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$vascriptlabs.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -191,9 +183,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test2" />
+    <property name="last_opened_file_path" value="F:/WAP_Begining/WAP-Lab/lab9" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -299,16 +292,17 @@
       <updated>1571262455312</updated>
       <workItem from="1571262461442" duration="3910000" />
       <workItem from="1571270045893" duration="595000" />
+      <workItem from="1571589172992" duration="122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4505000" />
+    <option name="totallyTimeSpent" value="4627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
